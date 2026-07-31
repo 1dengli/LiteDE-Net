@@ -1,2 +1,2 @@
-# LiteDE-Net
+# DPE-Net
 
